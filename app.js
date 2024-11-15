@@ -1,3 +1,5 @@
+//Copyright: Sidhesh
+
 const apiKey = 'AIzaSyBIELAXb7nSRBSpwNTfsjFMXqSuNaca9dU';
 const neetcodeChannelId = 'UCevUmOfLTUX9MNGJQKsPdIA';
 const codingWithLarryChannelId = 'UCl3tJFKsFrw2p_Wxf1YDSow';
